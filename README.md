@@ -1,10 +1,10 @@
 # 💫 About Me:
 Hi there 😊 Geoffrey here <be>
-I am currently working on project Nexus 🧬 <be>
-Open to collaborate on any flutter or web development projects 🌐 <be>
-I am currently learning Flutter (https://img.shields.io/badge/-%231877F2.svg?logo=flutter&logoColor=white)<be>
-Ask me about Lamp Stack (https://img.shields.io/badge/-%231877F2.svg?logo=php&logoColor=white)<be>
-Fun fact "Best Fifa player in the world" !(https://img.shields.io/badge/-%231877F2.svg?logo=playstation&logoColor=white)
+I am currently working on project Nexus 🧬 <br>
+Open to collaborate on any flutter or web development projects 🌐 <br>
+I am currently learning Flutter [![](https://img.shields.io/badge/-%231877F2.svg?logo=flutter&logoColor=white)<br>
+Ask me about Lamp Stack [![](https://img.shields.io/badge/-%231877F2.svg?logo=php&logoColor=white)<br>
+Fun fact "Best Fifa player in the world" [![](https://img.shields.io/badge/-%231877F2.svg?logo=playstation&logoColor=white)
 
 
 ## 🌐 Socials:
