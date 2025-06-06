@@ -20,7 +20,4 @@ Feel free to connect with me!
 * **Instagram:** <a href="https://www.instagram.com/geoffreyzulujr">@geoffreyzulujr</a>
 * **Facebook:** <a href="https://www.facebook.com/geoffreyzulujr">geoffreyzulujr</a>
 
-<p align="center">
-  <h3 align="center">WELCOME ABOARD</h3>
-  <img src="[https://i.imgur.com/fTzR1VE.png](https://profile-counter.glitch.me/%7BGeoffrey-Zulu%7D/count.svg)" alt="Counter img" width="479" height="65">
-</p>
+---
