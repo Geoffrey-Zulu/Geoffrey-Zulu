@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/fTzR1VE.png" alt="Profile Image" width="479" height="65">
+  <img src="https://images.cooltext.com/5732714.gif" alt="Profile Image" width="479" height="65">
   <h1 align="center">WELCOME ABOARD</h1>
 </p>
 
