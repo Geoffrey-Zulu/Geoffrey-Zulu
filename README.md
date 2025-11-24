@@ -4,12 +4,12 @@
 </p>
 
 
-### 👋 About Me
+###  About Me
 
 I'm a passionate person with a keen interest in web development, I enjoy building things, playing games and constantly learning new technologies.
 
 
-### 📫 Get in Touch
+###  Get in Touch
 
 Feel free to connect with me!
 
