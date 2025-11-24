@@ -3,7 +3,6 @@
   <h1 align="center">WELCOME ABOARD</h1>
 </p>
 
----
 
 ### 👋 About Me
 
@@ -19,5 +18,3 @@ Feel free to connect with me!
 * **X:** <a href="https://twitter.com/geoffreyzulujr">@geoffreyzulujr</a>
 * **Instagram:** <a href="https://www.instagram.com/geoffreyzulujr">@geoffreyzulujr</a>
 * **Facebook:** <a href="https://www.facebook.com/geoffreyzulujr">geoffreyzulujr</a>
-
----
